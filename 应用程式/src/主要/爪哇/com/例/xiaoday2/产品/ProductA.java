@@ -8,6 +8,6 @@ public class ProductA implements Product{
         Log.e("tag", "say: "+"我是A产品" );
     }
     public void sd(){
-
+Log.e("tag", "say: "+"我是A产品" );
     }
 }
