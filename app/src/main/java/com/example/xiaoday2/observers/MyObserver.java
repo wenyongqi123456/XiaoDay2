@@ -16,4 +16,7 @@ public class MyObserver implements Observer {
     public void update(Observable o, Object arg) {
         Log.e("tag", "update: "+name+arg );
     }
+    public void ff(){
+
+    }
 }
