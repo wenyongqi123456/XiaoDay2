@@ -17,6 +17,6 @@ public class MyObserver implements Observer {
         Log.e("tag", "update: "+name+arg );
     }
     public void ff(){
-
+        Log.e("tag", "ff: " );
     }
 }
