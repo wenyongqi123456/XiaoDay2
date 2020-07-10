@@ -7,4 +7,7 @@ public class ProductA implements Product{
     public void say() {
         Log.e("tag", "say: "+"我是A产品" );
     }
+    public void sd(){
+
+    }
 }
